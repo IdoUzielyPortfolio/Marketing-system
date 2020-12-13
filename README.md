@@ -1,2 +1,2 @@
 # Marketing-system
-Marketing system – user can add buyers, sellers, products, and to make purchases
+Marketing system – user can add buyers, sellers, products, make purchases
